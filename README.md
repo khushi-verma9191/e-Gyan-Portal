@@ -23,7 +23,7 @@ The e-Gyan Portal is an online education system designed to facilitate remote le
 <br/>
 <b>Front-end:</b> HTML, CSS, JavaScript
 <br/>
-<b>Back-end:</b> PHP, Django
+<b>Back-end:</b> Django
 <br/>
 <b>Database:</b> MySQL
 <br/>
